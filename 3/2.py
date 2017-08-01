@@ -1,7 +1,7 @@
 #coding=utf-8
 
 '''
-	切片和字符串常见操作
+	切片
 '''
 
 import random
